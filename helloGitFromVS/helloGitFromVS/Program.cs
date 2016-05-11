@@ -10,7 +10,7 @@ namespace helloGitFromVS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git - changed on local server.");
+            Console.WriteLine("Hello Git - changed on local server and locally merged.");
             Console.WriteLine("another line");
         }
     }
